@@ -13,6 +13,7 @@ Gem::Specification.new do |spec|
   spec.description   = 'One line of code adds a dynamic form to start gathering valuable user research within your app.'
   spec.homepage      = 'https://feedbaxley.com/'
   spec.license       = "MIT"
+  spec.metadata      = { "source_code_uri" => "https://github.com/dempus/feedbaxley-gem" }
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
