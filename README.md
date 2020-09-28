@@ -2,6 +2,8 @@
 
 Start gathering feedback from your users in seconds! One line of code adds a dynamic form to start gathering valuable user research within your app.
 
+![](feedback.jpg)
+
 ## Installation
 
 Add this line to your application's Gemfile:
